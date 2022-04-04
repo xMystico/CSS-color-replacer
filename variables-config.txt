@@ -1,0 +1,6 @@
+[Setup]
+directory_path = C:/Kantar/Project/Sites/SM1Touch/Client/css
+
+[Variables]
+field-required = #FF0506
+field-focused = #1FC1FF
